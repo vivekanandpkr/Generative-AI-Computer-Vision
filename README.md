@@ -16,6 +16,8 @@ To get started with Generative AI:
 
 ![image](https://github.com/vivekanandpkr/Generative-AI-Computer-Vision/assets/21027388/300b0b49-58eb-45d8-9738-cdbd153a402d)
 
+![image](https://github.com/vivekanandpkr/Generative-AI-Computer-Vision/assets/21027388/ad8856da-f2f8-4881-8cbc-4d8f039cf147)
+
 
 ![image](https://github.com/vivekanandpkr/Generative-AI-Computer-Vision/assets/21027388/35b56e5e-1c4d-4f5f-85ca-2cdee6c2f0b5)
 

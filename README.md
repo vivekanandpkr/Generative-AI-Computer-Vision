@@ -9,7 +9,7 @@ To get started with Generative AI:
 - HuggingFace
 - Microsoft Bing
 
-**Learnings from Generative AI Conference Visit, Zurich:
+**Learnings from AWS Cloud Day, Generative AI Conference Visit, Zurich:
 
 ![image](https://github.com/vivekanandpkr/Generative-AI-Computer-Vision/assets/21027388/b0173690-65ea-4f75-98b5-05d4b59df392)
 

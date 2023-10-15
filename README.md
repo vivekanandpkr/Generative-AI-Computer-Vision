@@ -9,7 +9,7 @@ To get started with Generative AI:
 
 **Learnings from AWS Cloud Day, Conference Visit, Zurich:
 
-(Below Information is for learning purpose and its commonly available on open source platforms/websites for reference)
+(Below information commonly available on open source platforms/websites for reference)
 
 
 ![image](https://github.com/vivekanandpkr/Generative-AI-Computer-Vision/assets/21027388/39c62994-9ac7-4158-83ce-c39f490bd87b)

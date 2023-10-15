@@ -1,11 +1,45 @@
-Lets Decode The LSTM Model And Understand The Applications In Layman Terms:
+Lets Decode The LSTM Model And Understand The Applications In Both Technical & Layman Terms:
 
-Recursion Formula
+Recursion Formula & Derivatives
 Diagonal Matrix
 Activation Function
 Backprobagation
 Jacobi Matrix
+Temporal Generalization, Synaptic Weights
 Vanishing & Exploding Gradients
+Feed Forward vs RNN
+RNN & LSTM Architectures
+Learning Methods
+Regularization L1, L2
+
+
+
+
+Few FAQ's to deep dive:
+1. What is LSTM and how is it different from traditional RNNs?
+LSTM is an advanced form of Recurrent Neural Network (RNN) designed to address the vanishing gradient problem in RNNs. It has specialized gates (input, output, and forget) that help in learning long-term dependencies in sequence data.
+2. What is the vanishing gradient problem and how does LSTM solve it?
+In traditional RNNs, gradients can vanish or explode during backpropagation, especially for long sequences. LSTMs use a separate memory cell to store the internal state, mitigating the vanishing gradient issue.
+3. What are the gates in LSTM?
+LSTM has three gates:
+Input Gate: Decides what new information will be stored in the memory cell.
+Forget Gate: Determines what information will be thrown away from the cell state.
+Output Gate: Decides what part of the cell state will be the output.
+4. What are Bidirectional LSTMs?
+Bidirectional LSTMs process data from both past and future around a specific time point, making them effective for sequence classification tasks where future context is important.
+5. How does LSTM perform on time-series data?
+LSTMs are highly effective on time-series data for tasks like prediction and anomaly detection. They can model complex temporal dependencies, which simpler models like ARIMA cannot capture.
+6. Are LSTMs good for Natural Language Processing (NLP)?
+Yes, LSTMs excel in various NLP tasks such as sentiment analysis, machine translation, and named entity recognition because of their ability to understand the context and semantics over long sequences of text.
+7. How computationally expensive are LSTMs?
+LSTMs are more computationally intensive than standard RNNs due to their complex architecture. However, this complexity allows them to model intricate patterns in the data.
+8. What is a Stacked LSTM?
+Stacking multiple layers of LSTM units increases the ability of the model to learn from the training data, albeit at the cost of computational efficiency.
+9. Can LSTM be used for unsupervised learning?
+While typically used in supervised settings, LSTMs can be adapted for unsupervised tasks like autoencoding and sequence-to-sequence learning without labeled data.
+10. Are LSTMs interpretable?
+LSTMs are generally considered "black box" models, but efforts are being made to make them more interpretable through techniques like Explainable AI (XAI), which you're already keen on.
+
 
 
 

@@ -51,7 +51,8 @@ However, this complexity allows them to model intricate patterns in the data.
 Stacking multiple layers of LSTM units increases the ability of the model to learn from the training data, albeit at the cost of computational efficiency.
 
 9. Can LSTM be used for unsupervised learning?
-While typically used in supervised settings, LSTMs can be adapted for unsupervised tasks like autoencoding and sequence-to-sequence learning without labeled data.
+While typically used in supervised settings, LSTMs can be adapted for unsupervised tasks like autoencoding and sequence-to-sequence learning 
+without labeled data.
 
 10. Are LSTMs interpretable?
 LSTMs are generally considered "black box" models, but efforts are being made to make them more interpretable through techniques like Explainable AI (XAI), 

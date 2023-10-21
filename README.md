@@ -27,7 +27,8 @@ Computer Vision:
 RNN & LSTM:
 Binary Cross Entropy Loss Manual Calculations in Excel:
 
-![image](https://github.com/vivekanandpkr/Generative-AI-Computer-Vision/assets/21027388/f97fd439-0f76-4c20-8675-983fb1fbeb32)
+![image](https://github.com/vivekanandpkr/Generative-AI-Computer-Vision/assets/21027388/a63c6dae-8663-4f9a-809f-3584e56ab3b2)
+
 
 
 

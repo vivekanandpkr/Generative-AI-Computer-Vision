@@ -23,3 +23,17 @@ To get started with Generative AI:
 Computer Vision: 
 - YOLO (You look only once)
 
+
+RNN & LSTM:
+Binary Cross Entropy Loss Manual Calculations in Excel:
+
+![image](https://github.com/vivekanandpkr/Generative-AI-Computer-Vision/assets/21027388/f97fd439-0f76-4c20-8675-983fb1fbeb32)
+
+
+
+
+
+
+
+
+

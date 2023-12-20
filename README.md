@@ -1,5 +1,5 @@
 # Generative-AI-Computer-Vision
-To explore generative AI &amp; computer vision.
+To explore generative AI &amp; computer vision. For learning purpose only. 
 
 
 RNN & LSTM:
